@@ -1,4 +1,4 @@
-package chapter01.item03;
+package chapter01.item03.alone;
 
 /**
  * 정적 팩터리 메서드 방식의 싱글턴

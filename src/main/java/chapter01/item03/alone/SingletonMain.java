@@ -1,6 +1,5 @@
-package chapter01.item03;
+package chapter01.item03.alone;
 
-import java.io.*;
 import java.lang.reflect.Constructor;
 import java.lang.reflect.InvocationTargetException;
 

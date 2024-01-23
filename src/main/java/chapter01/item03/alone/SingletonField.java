@@ -1,4 +1,4 @@
-package chapter01.item03;
+package chapter01.item03.alone;
 
 import java.io.Serializable;
 
